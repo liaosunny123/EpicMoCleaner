@@ -1,0 +1,10 @@
+[Basic]
+Name=1
+Author=1
+Version=1
+ProgramName=1
+ProcessName=1
+Type=Program
+Info=1
+LockLoad=True
+LockEdit=False

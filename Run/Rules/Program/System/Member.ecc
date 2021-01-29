@@ -1,0 +1,10 @@
+[Basic]
+Name=System
+Author=EpicMo
+Version=1.1
+ProgramName=System
+ProcessName=System
+Type=Program
+SpecVer=0
+LockLoad=False
+LockEdit=False

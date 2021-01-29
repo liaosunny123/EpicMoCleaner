@@ -1,0 +1,10 @@
+[Basic]
+Name=CloudMusic
+Author=EpicMo
+Version=1.1
+ProgramName=ÍøÒ×ÔÆÒôÀÖ
+ProcessName=CloudMusic.exe
+Type=Program
+SpecVer=0
+LockLoad=False
+LockEdit=False
